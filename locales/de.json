@@ -1,0 +1,28 @@
+{
+  "testing": "Testen...",
+  "title": "Titel",
+  "author": "Autor",
+  "description": "Beschreibung",
+  "bookName": "Buchtitel",
+  "countInStock": "Lagerbestand",
+  "price": "Preis",
+  "image": "Bild-URL",
+  "createBook": "Buch erstellen",
+  "updateBook": "Buch aktualisieren",
+  "deleteBook": "Buch löschen",
+  "bookNotFound": "Buch nicht gefunden.",
+  "bookDeletedSuccessfully": "Buch erfolgreich gelöscht.",
+  "validation": {
+    "bookNameRequired": "Der Buchtitel ist erforderlich.",
+    "bookNameLength": "Der Buchtitel muss zwischen 3 und 100 Zeichen lang sein.",
+    "countInStockRequired": "Der Lagerbestand ist erforderlich.",
+    "countInStockNumber": "Der Lagerbestand muss eine Zahl sein.",
+    "countInStockRange": "Der Lagerbestand muss zwischen 1 und 100 liegen.",
+    "priceRequired": "Der Preis ist erforderlich.",
+    "priceNumber": "Der Preis muss eine Zahl sein.",
+    "priceRange": "Der Preis muss zwischen 1 und 1000 liegen.",
+    "imageRequired": "Die Bild-URL ist erforderlich.",
+    "imageInvalid": "Die Bild-URL muss gültig sein.",
+    "invalidBookId": "Ungültige Buch-ID."
+  }
+}

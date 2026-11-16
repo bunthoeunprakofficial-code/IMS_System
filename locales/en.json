@@ -1,0 +1,28 @@
+{
+  "testing": "Testing...",
+  "title": "Title",
+  "author": "Author",
+  "description": "Description",
+  "bookName": "Book name",
+  "countInStock": "Quantity in stock",
+  "price": "Price",
+  "image": "Image URL",
+  "createBook": "Create book",
+  "updateBook": "Update book",
+  "deleteBook": "Delete book",
+  "bookNotFound": "Book not found.",
+  "bookDeletedSuccessfully": "Book deleted successfully.",
+  "validation": {
+    "bookNameRequired": "Book name is required.",
+    "bookNameLength": "Book name must be between 3 and 100 characters.",
+    "countInStockRequired": "Quantity in stock is required.",
+    "countInStockNumber": "Quantity in stock must be a number.",
+    "countInStockRange": "Quantity in stock must be between 1 and 100.",
+    "priceRequired": "Price is required.",
+    "priceNumber": "Price must be a number.",
+    "priceRange": "Price must be between 1 and 1000.",
+    "imageRequired": "Image URL is required.",
+    "imageInvalid": "Image URL must be valid.",
+    "invalidBookId": "Invalid book ID."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "testing": "اختبار...",
+  "title": "العنوان",
+  "author": "المؤلف",
+  "description": "الوصف",
+  "bookName": "اسم الكتاب",
+  "countInStock": "الكمية المتوفرة",
+  "price": "السعر",
+  "image": "رابط الصورة",
+  "createBook": "إنشاء كتاب",
+  "updateBook": "تحديث الكتاب",
+  "deleteBook": "حذف الكتاب",
+  "bookNotFound": "لم يتم العثور على الكتاب.",
+  "bookDeletedSuccessfully": "تم حذف الكتاب بنجاح.",
+  "validation": {
+    "bookNameRequired": "اسم الكتاب مطلوب.",
+    "bookNameLength": "يجب أن يتراوح طول اسم الكتاب بين 3 و100 حرف.",
+    "countInStockRequired": "الكمية المتوفرة مطلوبة.",
+    "countInStockNumber": "يجب أن تكون الكمية المتوفرة رقمًا.",
+    "countInStockRange": "يجب أن تتراوح الكمية المتوفرة بين 1 و100.",
+    "priceRequired": "السعر مطلوب.",
+    "priceNumber": "يجب أن يكون السعر رقمًا.",
+    "priceRange": "يجب أن يتراوح السعر بين 1 و1000.",
+    "imageRequired": "رابط الصورة مطلوب.",
+    "imageInvalid": "يجب أن يكون رابط الصورة صالحًا.",
+    "invalidBookId": "معرّف الكتاب غير صالح."
+  }
+}
